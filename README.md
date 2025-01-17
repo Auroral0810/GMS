@@ -92,21 +92,3 @@
 
 6. **健身记录表（UserRecord）**
    - 跟踪用户参与课程的详细记录。
-
----
-
-## 技术栈
-
-- **后端**：SpringBoot
-- **数据库**：MySQL
-- **前端**：Vue.js
-- **其他技术**：Redis、阿里云 OSS
-
----
-
-## 部署指南
-
-1. **克隆代码仓库**
-   ```bash
-   git clone https://github.com/your-username/gms.git
-   cd gms
